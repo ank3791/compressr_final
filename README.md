@@ -1,7 +1,7 @@
 # Compressr
 
 Project Description:
-  > This project is a React and Node application which outlines and suggests ways to compress imputed text. The Node API is stand alone and GETs data from Google's NLP Cloud service. It then inputs the metadata of each sentence to a proprietary algorithm whih outputs a rank for each sentence determining its importance to the passage as a whole. This data is then consumed by the React app and outputted in a user friendly UI. Demo Video: https://youtu.be/_p3qizvufCA
+  > This project is a React and Node application which outlines and suggests ways to compress imputed text. The Node API is stand alone and GETs data from Google's NLP Cloud service. It then inputs the metadata of each sentence to a proprietary algorithm whih outputs a rank for each sentence determining its importance to the passage as a whole. This data is then consumed by the React app and outputted in a user friendly UI. 
 
 Steps to run locally:
   > 1. Clone Repo
