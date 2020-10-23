@@ -1,0 +1,12 @@
+{
+  "name": "Compressr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mainAPI.js",
+  "scripts": {
+    "start": "node mainAPI"
+  },
+  "keywords": [],
+  "author": "Rohith Nadimpally",
+  "license": "ISC"
+}
